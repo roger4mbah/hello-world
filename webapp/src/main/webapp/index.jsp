@@ -7,5 +7,6 @@
 <p> Test automation to make CI = CD</p>
 <b> Double doors are opening for ya IJN!. and you'll sour like Eagles</b>
 <b> Now testing the rollout feature. Full pipeline now functional</b>
+<b> Copyright 2020</b>
 <hr>
 <hr>
