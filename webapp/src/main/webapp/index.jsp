@@ -1,7 +1,9 @@
 <title>Genius22 Container Deployment </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<a href="about.jsp"> About</a>
+<header class="w3-container w3-teal">
+ <a href="about.jsp"> About</a>
+</header>
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
