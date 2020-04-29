@@ -7,7 +7,8 @@
 <p> Test automation to make CI = CD</p>
 <b> Double doors are opening for ya IJN!. and you'll sour like Eagles</b>
 <b> Now testing the rollout feature. Full pipeline now functional</b><br>
-<b> Copyright 2020</b>
 <hr>
 <b> Genius22 final practical step</b>
-<hr>
+<br><br><br>
+<b> Copyright 2020</b>
+<a href="http://bodyspeccollector.herokuapp.com/">my_site</a>
