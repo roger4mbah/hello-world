@@ -1,4 +1,4 @@
-<title>Today's Day</title>
+<title>Genius22 Container Deployment </title>
 <script>
   let d =new Date();
   alert("Today's date is" + d);
@@ -14,7 +14,10 @@
 <b> Double doors are opening for ya IJN!. and you'll sour like Eagles</b>
 <b> Now testing the rollout feature. Full pipeline now functional</b><br>
 <hr>
-
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()"> 
+Get Date.</button>
+<p id="demo">
 <b> Genius22 final practical step</b>
 <br><br><br>
 <b> Copyright 2020</b>
