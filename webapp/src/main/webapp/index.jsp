@@ -1,8 +1,6 @@
 <title>Genius22 Container Deployment </title>
-<script>
-  let d =new Date();
-  alert("Today's date is" + d);
-</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <a href="about.jsp"> About</a>
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
@@ -22,3 +20,7 @@ Get Date.</button>
 <br><br><br>
 <b> Copyright 2020</b>
 <a href="http://bodyspeccollector.herokuapp.com/">my_site</a>
+<footer class="w3-container w3-teal">
+  <h5>Footer</h5>
+  <p>Copyright 2020</p>
+</footer>
