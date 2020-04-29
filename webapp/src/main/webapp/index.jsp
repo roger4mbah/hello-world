@@ -1,3 +1,8 @@
+<title>Today's Day</title>
+<script>
+  let d =new Date();
+  alert("Today's date is" + d);
+</script>
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
@@ -8,6 +13,7 @@
 <b> Double doors are opening for ya IJN!. and you'll sour like Eagles</b>
 <b> Now testing the rollout feature. Full pipeline now functional</b><br>
 <hr>
+
 <b> Genius22 final practical step</b>
 <br><br><br>
 <b> Copyright 2020</b>
