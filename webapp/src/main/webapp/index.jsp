@@ -13,6 +13,12 @@
 <p> Test automation to make CI = CD</p>
 <b> Double doors are opening for ya IJN!. and you'll sour like Eagles</b>
 <b> Now testing the rollout feature. Full pipeline now functional</b><br>
+<b> Round two!! Successfull built a CI/CD pipleline using the following tools:</b>
+ <b> * Git</b>
+ <b> * Jenkins</b>
+ <b> * Ansible</b>
+ <b> * Docker and </b>
+ <b> * Kubernetes.</b> 
 <hr>
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()"> 
