@@ -19,7 +19,7 @@
  <b> * Ansible</b>
  <b> * Docker and </b>
  <b> * Kubernetes.</b> 
- <b> Thank God for patience!</b>
+ <b> Thank God for patience all this while!</b>
 <hr>
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()"> 
